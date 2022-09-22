@@ -61,6 +61,11 @@ p {
     position: absolute;
 }
 
+.man{
+    /* border: solid green 2px !important; */
+    content:"(attre)";
+}
+
 .keeper {
     position: relative;
     /* border: 1px solid white; */
@@ -73,9 +78,10 @@ p {
     align-items: center;
     justify-content: space-around;
 }
-*{
-    border:1px solid white;
-}
+
+/* *{
+     border:1px solid white; 
+} */
 
 .container {
     width: 80%;
